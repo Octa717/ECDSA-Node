@@ -1,3 +1,5 @@
+Project part of Alchemy University Ethereum Developer Bootcamp
+
 ## ECDSA Node
 
 This project is an example of using a client and server to facilitate transfers between different addresses. Public Key Cryptography is implemented with a client side new account generation tool, setting an initial deposit (i.e. starting balance) and keeping private keys local. By using Elliptic Curve Digital Signatures we can make it so the server only allows transfers that have been signed for by the person who owns the associated address.
